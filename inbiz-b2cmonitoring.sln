@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inbiz-b2cmonitoring", "inbiz-b2cmonitoring\inbiz-b2cmonitoring.csproj", "{1E0DF872-3949-4CF8-9AED-80B796CB7373}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CC432313-61DD-413F-ABE4-273B4DCEF92A}"
+	ProjectSection(SolutionItems) = preProject
+		Local.testsettings = Local.testsettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E0DF872-3949-4CF8-9AED-80B796CB7373}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E0DF872-3949-4CF8-9AED-80B796CB7373}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E0DF872-3949-4CF8-9AED-80B796CB7373}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E0DF872-3949-4CF8-9AED-80B796CB7373}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72C76117-BF49-4F20-91FA-EBBD910CDB30}
+	EndGlobalSection
+EndGlobal
